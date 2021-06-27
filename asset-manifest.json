@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/niedzii.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/niedzii.github.io/static/js/main.72b24070.chunk.js",
+    "main.js.map": "/niedzii.github.io/static/js/main.72b24070.chunk.js.map",
+    "runtime-main.js": "/niedzii.github.io/static/js/runtime-main.cb1ab70a.js",
+    "runtime-main.js.map": "/niedzii.github.io/static/js/runtime-main.cb1ab70a.js.map",
+    "static/js/2.576fc62e.chunk.js": "/niedzii.github.io/static/js/2.576fc62e.chunk.js",
+    "static/js/2.576fc62e.chunk.js.map": "/niedzii.github.io/static/js/2.576fc62e.chunk.js.map",
+    "static/js/3.5bc8121c.chunk.js": "/niedzii.github.io/static/js/3.5bc8121c.chunk.js",
+    "static/js/3.5bc8121c.chunk.js.map": "/niedzii.github.io/static/js/3.5bc8121c.chunk.js.map",
+    "index.html": "/niedzii.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/niedzii.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.576fc62e.chunk.js.LICENSE.txt": "/niedzii.github.io/static/js/2.576fc62e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb1ab70a.js",
+    "static/js/2.576fc62e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.72b24070.chunk.js"
+  ]
+}
